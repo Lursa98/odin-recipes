@@ -1,1 +1,2 @@
 # odin-recipes
+This is a "Test-Project" task. In this project I will try to use all my gained knowledge about html. It should cover: Creating a html, adding a boilerplate, adding pictures, text and links, modifying the text and pictures by giving it structure, headlines, paragraphs, lists and links, connecting everything and uploading it to GitHub.
